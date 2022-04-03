@@ -3,12 +3,12 @@
 - 💻 Atualmente estou estudando Ciência de Dados e Inteligência Artificial na PUCRS!
 - 📩 Você pode entrar em contato comigo através do email: fab.leandro66@gmail.com
 - 👨🏼‍💻 Comecei a estudar Ciências de Dados há pouco tempo. Gostaria de me desenvolver mais em um estágio na área!
-- 📂 Coloquei, nesse repositório, alguns projetos simples que comecei a fazer!
+- 📂 Coloquei, nesse repositório, alguns projetos simples que comecei a fazer! Estão na Branch Master😉
 
 <div>
   <a href=https://github.com/FabioMedeiros123>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMedeiros123&show_icons=true&theme=vue-dark&locale=pt-BR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros123&layout=compact&theme=vue-dark&locale=pt-BR">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioMedeiros123&show_icons=true&theme=vue-dark&locale=pt-BR">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros123&layout=compact&theme=vue-dark&locale=pt-BR"> -->
 </div>
   
 <div style="display: inline_block">
