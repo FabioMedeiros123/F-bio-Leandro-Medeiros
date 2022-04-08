@@ -1,0 +1,5 @@
+Objetivos do projeto
+
+- Criar um sistema de cadastro de usuário usando tkinter
+- Armazenar informações em um banco de dados (sqlite)
+- Exportar informações para o excel usando o pandas

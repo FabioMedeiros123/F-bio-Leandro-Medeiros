@@ -1,0 +1,2 @@
+Código simples que lê as imagens inseridas (por meio do opencv)
+e as transforma em texto (por meio do tesseract).
