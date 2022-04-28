@@ -3,7 +3,7 @@
 - 💻 Atualmente estou estudando Ciência de Dados e Inteligência Artificial na PUCRS!
 - 📩 Você pode entrar em contato comigo através do email: fab.leandro66@gmail.com
 - 👨🏼‍💻 Comecei a estudar Ciências de Dados há pouco tempo. Gostaria de me desenvolver mais em um estágio na área!
-- 📂 Coloquei, nesse repositório, alguns projetos simples que comecei a fazer! Estão na Branch Master😉
+- 📂 Na Branch Master você pode encontrar alguns projetos simples que fiz na área😉
 
 <div>
   <a href=https://github.com/FabioMedeiros123>
