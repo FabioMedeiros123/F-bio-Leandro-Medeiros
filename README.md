@@ -4,12 +4,6 @@
 - 📩 Você pode entrar em contato comigo através do email: fabio.leandro.medeiros@gmail.com
 - 👨🏼‍💻 Comecei a estudar Ciências de Dados há pouco tempo. Gostaria de me desenvolver mais em um estágio na área!
 - 📂 Na Branch Master você pode encontrar alguns projetos simples que fiz na área😉
-
-<div>
-  <a href=https://github.com/FabioMedeiros123>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioMedeiros123&show_icons=true&theme=vue-dark&locale=pt-BR">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros123&layout=compact&theme=vue-dark&locale=pt-BR"> -->
-</div>
   
 <div style="display: inline_block">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
