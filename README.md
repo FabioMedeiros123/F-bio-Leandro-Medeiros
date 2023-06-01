@@ -1,8 +1,7 @@
 ## Olá, meu nome é Fábio Leandro😃
 
-- 💻 Atualmente estou estudando Ciência de Dados e Inteligência Artificial na PUCRS!
+- 💻 Atualmente estou procurando um emprego na área de Ciência de Dados e Inteligência Artificial.
 - 📩 Você pode entrar em contato comigo através do email: fabio.leandro.medeiros@gmail.com
-- 👨🏼‍💻 Comecei a estudar Ciências de Dados há pouco tempo. Gostaria de me desenvolver mais em um estágio na área!
 - 📂 Na Branch Master você pode encontrar alguns projetos simples que fiz na área😉
   
 <div style="display: inline_block">
