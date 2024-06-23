@@ -1,6 +1,6 @@
 ## Olá, meu nome é Fábio Leandro😃
 
-- 💻 Atualmente estou procurando um emprego na área de Ciência de Dados e Inteligência Artificial.
+- 💻 Tenho especialização na área de Ciência de Dados e Inteligência Artificial.
 - 📩 Você pode entrar em contato comigo através do email: fabio.leandro.medeiros@gmail.com
 - 📂 Na Branch Master você pode encontrar alguns projetos simples que fiz na área😉
   
